@@ -3,7 +3,8 @@ import sys
 #Qvbox es un organizador de widget en la ventana, este en particular los apila en vertcal
 from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QFileDialog
 from PyQt5 import QtCore, QtWidgets
-
+# seré mas decente
+# hijo de mujer de facil acceso el que lo lea
 from matplotlib.figure import Figure
 
 from PyQt5.uic import loadUi
