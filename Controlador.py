@@ -5,7 +5,8 @@ Created on Sun Mar 22 22:50:52 2020
 @author: Sara Cadavid - Cristina Pareja 
 
 """
-# Se importa libreria necesaria para el funcionamiento del programa
+# Se importa libreria necesaria para el funcionamiento del progr
+#cualquier cosa
 from Modelo import Biosenal # De modelo importa la class Biosenal 
 from interfaz import InterfazGrafico
 import sys #Deja que el  programa ejecute 
